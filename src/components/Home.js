@@ -25,6 +25,7 @@ function Home() {
     }
     else
       setRes(res.concat(arg));
+      
   }
   return (
     <div className={classes.home}>
